@@ -1,0 +1,1 @@
+This repo contains the skills sets required for a person who wants to be in the data scinece field. It contains all the concepts materials and the some worksheets which i've worked on during practice time
